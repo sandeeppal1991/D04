@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # HW04_ch08_ex00
 # See 8.7
 

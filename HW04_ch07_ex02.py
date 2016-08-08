@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # HW04_ch07_ex02
 
 # The built-in function eval takes a string and evaluates it using the Python

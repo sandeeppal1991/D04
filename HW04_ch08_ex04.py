@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # HW04_ch08_ex04
 
 # The following functions are all intended to check whether a string contains
